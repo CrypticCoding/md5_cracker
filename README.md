@@ -21,11 +21,12 @@ pip3 install -r requirements.txt
 
 * Create A Hash.txt file and paste your hashes
 * Create A Output File 
+* Create A Wordlist File And Paste All The Wordlists
 * (Make Sure You Are In The Same Dir)
 * Enter The Following Code
 
 ```bash
-python3 md5_decrypt.py hash.txt rockyou.txt output.txt
+python3 md5_decrypt.py hash.txt wordlist.txt output.txt
 ```
 
 ## Contributing
